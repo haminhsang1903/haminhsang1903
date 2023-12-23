@@ -9,7 +9,8 @@ Short description of your project.
 
 ## Introduction
 
-Provide a brief overview of your project, its purpose, and the problems it aims to solve.
+Greetings! I'm Sang Ha, a DevOps professional passionate about leveraging automation to enhance software delivery and infrastructure management.
+I have a proven track record of implementing cutting-edge technologies, such as Docker, Kubernetes and AWS, to create agile and scalable development environments.
 
 ## Technologies Used
 
